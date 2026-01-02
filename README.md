@@ -1,6 +1,15 @@
 # M-SERIES | Independent Production Platform
 
+![Netlify Status](./screen/1.png)
 Este proyecto es una aplicación web moderna ("Netflix-style") para una productora independiente de mini-series. El objetivo principal es demostrar el uso efectivo de **React Router DOM** para la navegación, junto con animaciones cinemáticas y una arquitectura de contenido escalable.
+
+# Capturas
+
+![About Us](./screen/2.png)
+![Our Team](./screen/3.png)
+![Productions](./screen/4.png)
+![Plans](./screen/5.png)
+![Watch Now](./screen/6.png)
 
 ## 🛠 Tecnologías Utilizadas
 
@@ -67,3 +76,23 @@ Para evitar la repetición de código y facilitar el mantenimiento, el contenido
 ---
 
 **Nota**: Las imágenes se encuentran en la carpeta `public/image` y son servidas directamente por Vite.
+
+## Live Demo
+
+https://mseriesfree.netlify.app/
+
+## Sobre el Desarrollador 👨‍💻
+
+**Yoshua Soto** (Dann Falcon Dev)  
+_Fullstack Developer | Especialista en TypeScript_
+
+Creador apasionado por construir aplicaciones que no solo funcionan, sino que asombran. Utilizando la potencia de la IA (Gemini) y tecnologías web modernas, me enfoco en entregar experiencias de usuario (UX) memorables e inmersivas.
+
+📫 **Contacto**
+
+- **Email**: yoshuasoto54@gmail.com
+- **WhatsApp**: +58 0422 033 1995
+
+##
+
+![Falcon Studio Dev](banner.png)
